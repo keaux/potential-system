@@ -27,6 +27,7 @@ h3
 }
 
 h4{
+    text-transform: uppercase;
     font-family: monospace;
     font-weight: 600;
     font-size: 26px;
