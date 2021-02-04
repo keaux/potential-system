@@ -27,6 +27,7 @@ h3
 }
 
 h4{
+    font-family: monospace;
     font-weight: 600;
     font-size: 26px;
     
@@ -53,8 +54,8 @@ li {
 }
 
 p {
-    letter-spacing: 3px;
-    word-spacing: 3px;
+    letter-spacing: 1px;
+    word-spacing: 2px;
         
  width: 60%; 
  text-align: justify;   
