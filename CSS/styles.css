@@ -34,13 +34,16 @@ color: #c9c9c9;
 }
 
 h5 {
+    font-style:italic
     font-weight: 500;
     font-size: 22px;   
     color: #c9c9c9;
 }
 
 h6{
-    font-weight: 450;
+    font-style: italic;
+    text-decoration: underline;
+        font-weight: 450;
     font-size 20px;
     color: #c9c9c9;
 }
