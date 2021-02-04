@@ -53,8 +53,9 @@ li {
 }
 
 p {
-    letter-spacing: 10px;
-    line-spacing: 10px;
+    letter-spacing: 4px;
+    word-spacing: 4px
+        
  width: 60%; 
  text-align: justify;   
  color: #c9c9c9;
